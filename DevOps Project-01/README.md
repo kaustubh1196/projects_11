@@ -113,6 +113,4 @@ Deploy AWS Infrastructure resources as shown in the above architecture.
 2. Verify if you as an end user able to access application from public internet browser.
 
 # Hit the Star! ⭐
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+***If you are planning to use this repo for learning, please hit the star. 
